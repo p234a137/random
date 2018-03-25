@@ -22,7 +22,9 @@ int main(int argc, char *argv[])
 
 	int max = atoi(argv[1]);
 
+// initialize
 	init_rand();
+
 	int result = random_int(max);
 	printf("%d\n", result);
 
