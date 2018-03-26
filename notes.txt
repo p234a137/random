@@ -1,2 +1,4 @@
 configure Git to always use rename and copy detection:
 git config --global diff.renames copies
+
+update notes
